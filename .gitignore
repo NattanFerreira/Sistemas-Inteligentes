@@ -1,0 +1,42 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e temporários
+*.log
+texput.log
+/tmp/
+
+# IDE e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pastas ignoradas
+exercicios1u/
+slides/
+agy-questao1-3.txt
+
+# Arquivos pessoais de estudo e defesa (não enviados ao repositório público)
+roteiro_estudos_defesa.md
+*estudos_defesa*
+*roteiro_defesa*
